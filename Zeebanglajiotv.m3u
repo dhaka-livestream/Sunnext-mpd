@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Bengali",Zee Bangla HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91159e05d6c45bcc9586a6358fa2fbf9:23445ad11eb79efae433df70608e3b87
+https://fan.kaizokutv.me/prox/jio-prox.php?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FZeeBanglaHD_MOB%2FWDVLive%2Findex.mpd%3F__hdnea__%3Dst%3D1785677112%7Eexp%3D1785698712%7Eacl%3D%2F%2A%7Ehmac%3D1c1400fda49198aad81ca502de0c429dd1582323989585263dc4dc46a93fe3a9
