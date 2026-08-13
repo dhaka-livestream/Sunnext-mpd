@@ -6,4 +6,4 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://bdx-livestream.github.io/id34578/starjalshahd-UK.m3u8
+https://raw.githubusercontent.com/Bdx-livestream/id34578/refs/heads/main/starjalshahd-UK.m3u8
