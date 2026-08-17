@@ -1,4 +1,4 @@
-#==============SUN-NEXT========
+#==============SUN-NEXT-2========
 #EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194404" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",Sun News-sdx
 https://246011-m3u8proxy.pages.dev/sunnext-sunnews.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,7 +108,7 @@ https://246011-m3u8proxy.pages.dev/sunnext-sunbangla.m3u8
 
 
 
-#=================ZEE5===========
+#=================ZEE5-2===========
 #EXTINF
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
