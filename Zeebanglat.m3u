@@ -1,4 +1,2 @@
-#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788447637:KeyName=prod_linear:Signature=yrjkzdVjy1uTRH_Xp_qt3b8EymeYKX5qSp4wJ6BBlE9kpOdtN_ZUHr8WPmj0irAkiD91CZ8Mn754Az3YJEKlBQ"}
+#EXTINF:-1 tvg-id="84532bff-25bb-4794-8c0c-2034a577c064" group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
